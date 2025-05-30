@@ -1,0 +1,15 @@
+.st-key-h header {
+    color: green;
+}
+
+.stButton>button {
+    color: white;
+    background-color: skyblue;
+    border-radius: 90px;
+    height: 10rem;
+    width: 10rem;
+}
+
+body {
+    color: yellowgreen;
+}
